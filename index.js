@@ -7,7 +7,7 @@ const levels = require('discord-xp/models/levels');
 const canvas = require('canvas');
 Levels.setURL("mongodb+srv://BotProject:samiul2030@cluster0.e4crj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
 
-bot.login('Nzg4Mjc3NzEwOTU5MDE4MDE0.X9hK0w.ZtASHYP_sljcF7LKxFMWYBs9ptA')
+bot.login('')
 
 bot.on("ready", bot => {
     console.log('Bot is Online!')
